@@ -14,3 +14,17 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img.lado {
+    float: right;
+    height: auto;
+}
+
+article {
+    overflow: auto;
+}
